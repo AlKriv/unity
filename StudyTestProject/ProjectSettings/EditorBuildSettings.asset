@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 5920415bf41c34affaefc8a340f085f2
+  - enabled: 1
+    path: Assets/Scenes/broken cube.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/ball.unity
+    guid: f187a025f40894b51a39db4cb2ca6549
+  - enabled: 0
+    path: Assets/Scenes/List.unity
+    guid: 07d4093acacea4b9abe4a2a7c482a801
+  m_configObjects: {}
